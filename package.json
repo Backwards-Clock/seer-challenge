@@ -3,9 +3,15 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@interactjs/types": "^1.10.9",
+    "@types/react-calendar-timeline": "^0.26.3",
     "cors": "^2.8.4",
+    "csv": "^5.4.0",
     "express": "^4.16.3",
+    "interactjs": "1.10.8",
+    "moment": "^2.29.1",
     "react": "^17.0.1",
+    "react-calendar-timeline": "^0.27.0",
     "react-dom": "^17.0.1",
     "react-dropzone": "^11.3.1",
     "react-scripts": "4.0.3"
